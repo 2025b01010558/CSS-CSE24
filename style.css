@@ -11,7 +11,7 @@
     background-color: blueviolet;
 }
 body{
-    background-color:red;
+    background-color:darkgreen;
 }
 #l1{
     color:aqua;
@@ -33,9 +33,36 @@ div{
  #box1{
     height: 400px;
     width: 400px;
-    background-color:darkgreen;
-    border: 2px solid red;
+    background-color:greenyellow;
+    border: 2px solid blue;
     padding: 10px;
      margin-left: 50 px;
+
+ }
+ #box2{
+    height: 300px;
+    width: 200px;
+    background-color:palevioletred;
+    border: 6px solid orange ;
+    padding: 15px;
+     margin-left: 40 px;
+
+ }
+ #box3{
+    height: 600px;
+    width: 300px;
+    background-color:mediumpurple;
+    border: 4px solid yellow;
+    padding: 20px;
+     margin-left: 60 px ;
+
+ }
+ #box4{
+    height: 300px;
+    width: 500px;
+    background-color:goldenrod;
+    border: 5px solid black;
+    padding: 25px;
+     margin-left: 20 px;
 
  }
