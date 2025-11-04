@@ -1,0 +1,32 @@
+ p{
+    color:blue;
+    background :brown;
+    text-align: center;
+    padding: 20px;
+
+    
+}
+.color{
+    color:green;
+    background-color: blueviolet;
+}
+body{
+    background-color:red;
+}
+#l1{
+    color:aqua;
+     font-size: 50px ;
+} 
+div{
+    height: 300px;
+    width: 300px;
+    background-color:greenyellow;
+    border: 3px double brown;
+    padding: 10px;
+     margin-left: 150 px;
+}
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */

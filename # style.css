@@ -1,0 +1,15 @@
+p{
+    color:blue;
+    background :brown;
+    text-align: center;
+}
+.color{
+    color:green;
+}
+body{
+    background-color:red;
+}
+#l1{
+    color:aqua;
+     font-size: large ;
+}
