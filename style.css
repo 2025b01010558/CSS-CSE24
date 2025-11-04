@@ -30,3 +30,12 @@ div{
     padding: 0;
     box-sizing: border-box;
 } */
+ #box1{
+    height: 400px;
+    width: 400px;
+    background-color:darkgreen;
+    border: 2px solid red;
+    padding: 10px;
+     margin-left: 50 px;
+
+ }
