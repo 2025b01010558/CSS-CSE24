@@ -1,20 +1,32 @@
-#box1{
-    border:2px solid black ;
-    width: 800px;
+.box1{
+    border:4px solid black ;
+    width: 400px;
     height: 200px;
-    background-color: darkred;
-    padding-left: 40px;
+    background-color: white;
+    padding-left: 10px;
+    margin: 20px;
 
 
 }
-#box2{
-     border:2px solid blue ;
-    width: 600px;
-    height: 100px;
+.box2{
+      
+    width: 320px;
+    height: 90px;
+    background: blue;
+    margin: 15px;
+    padding: 15px;
+
+
+
+}
+.box3{
+    margin: 10px;
+    padding: 10px;
+    width: 270px;
+    height: 40px;
     background-color: yellow;
-
-
 }
 p{
     text-align: center;
+    align-items: center;
 }
