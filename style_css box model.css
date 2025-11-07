@@ -1,0 +1,20 @@
+#box1{
+    border:2px solid black ;
+    width: 800px;
+    height: 200px;
+    background-color: darkred;
+    padding-left: 40px;
+
+
+}
+#box2{
+     border:2px solid blue ;
+    width: 600px;
+    height: 100px;
+    background-color: yellow;
+
+
+}
+p{
+    text-align: center;
+}
