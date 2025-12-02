@@ -14,27 +14,37 @@
     justify-items: center;
     /* justify-items: stretch;  */
     align-items: center;
+    justify-content: center;
+    
+
     
    
 }
 .item{
-    height: 100px;
-    width: 100px;
+     height: 100px;
+    width: 100px; 
     background-color: aquamarine;
     border: 1px solid black;
     align-content: center;
     text-align: center;
      
 }
-/* .item1{
-    grid-area: header;
+.item1{
+    /* grid-area: header;  */
+    grid-column: 1/2;
+    grid-row: 2/3;
 }
-.item2{
-    grid-area: main;
-}
-.item3{
-    grid-area: sidebar;
-}
-.item4{
-    grid-area: footer;
-} */
+/* .item2{
+    /* grid-area: main; */
+    
+    
+/* } */
+/* .item3{ */
+    /* grid-area: sidebar; */
+    
+    
+/* }
+.item4{ */
+    /* grid-area: footer; */
+    
+/* }   */ 
